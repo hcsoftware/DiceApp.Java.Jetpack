@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="ma_btn0_text">Press me to change Text</string>
+</resources>
