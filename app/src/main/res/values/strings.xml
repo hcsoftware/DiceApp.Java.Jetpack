@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">Github App</string>
-    <string name="ma_btn0_text">Press me to change Text</string>
+    <string name="app_name">Dice Roll APP!</string>
+    <string name="ma_btn0_text">Roll Dice</string>
+    <string name="ma_edtxt_hint">DICE SIZE</string>
+    <string name="ma_input_msg">Please check your input</string>
+    <string name="ma_textview_roll">ROLL VALUE:</string>
+    <string name="ma_textview_result_hint">PRESS BUTTON</string>
+    <string name="ma_txtview_label">SET DICE SIZE:</string>
 </resources>
